@@ -1,0 +1,24 @@
+##Usefull Commands
+
+DestroyWildDinos
+DestroyAll DroppedItemGeneric_FertilizedEgg_NoPhysics_BD_C 0
+
+
+------------------
+##ARK Breeding Settings##
+
+MatingIntervalMultiplier=0.25
+LayEggIntervalMultiplier=1
+EggHatchSpeedMultiplier=20
+BabyMatureSpeedMultiplier=70
+BabyCuddleIntervalMultiplier=0.024801786
+BabyCuddleGracePeriodMultiplier=10
+BabyFoodConsumptionSpeedMultiplier=1
+BabyCuddleLoseImprintQualitySpeedMultiplier=1
+BabyImprintAmountMultiplier=1
+BabyImprintingStatScaleMultiplier=1
+MatingSpeedMultiplier=1
+
+
+
+
