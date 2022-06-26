@@ -3,6 +3,8 @@
 DestroyWildDinos
 DestroyAll DroppedItemGeneric_FertilizedEgg_NoPhysics_BD_C 0
 
+cheat SetImprintQuality 1
+cheat SetImprintedPlayer "<Name>" <UE4 ID>
 
 ------------------
 ##ARK Breeding Settings##
