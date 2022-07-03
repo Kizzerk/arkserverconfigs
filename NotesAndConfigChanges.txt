@@ -21,6 +21,22 @@ BabyImprintAmountMultiplier=1
 BabyImprintingStatScaleMultiplier=1
 MatingSpeedMultiplier=1
 
+##Immersive taming settings##
 
+imersive taming speed multi 0.5
+hand feeding eff 1.15
+imerssive feeding 1.5
+immesrvie activity 1.5
+world scan 900
+
+protec tames
+taming xp
+dino gifts
+pack taming
+taming glow
+redistribute wasted stats 
+journal tame tracking
+
+combat progess
 
 
